@@ -1,0 +1,12 @@
+{
+  "name": "weasyv-utilities",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "create-component": "./index.js"
+  },
+  "keywords": [],
+  "author": "Weston Vincze",
+  "license": "MIT"
+}
